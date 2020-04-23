@@ -375,3 +375,4 @@ Success | CreatingAppActions | createNewAppOnServer | Thu Apr 23 2020, 13:22:53 
  Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:22:58 GMT+0530 (India Standard Time) | Adding cordova-plugin-mfp-analytics to package.json
 
 Success | projectHandler | createIonicProject | Thu Apr 23 2020, 13:22:58 GMT+0530 (India Standard Time) | In-App feedback analytics plugin installed successfully
+ Info | BuilderEditor | saveFile | Thu Apr 23 2020, 13:31:14 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/app3/ionic/src/pages/home/home.html
